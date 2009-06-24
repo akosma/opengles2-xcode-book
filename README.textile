@@ -1,0 +1,5 @@
+h1. OpenGL ES 2.0 on the iPhone
+
+This project contains sample code taken from the "OpenGL ES 2.0 Programming Guide book, by Aaftab Munshi, Dan Ginsburg and Dave Shreiner":http://www.amazon.com/OpenGL-ES-2-0-Programming-Guide/dp/0321502795, adapted for Xcode 3.2 and the iPhone OS 3.0.
+
+Every chapter in this project contains code taken from the corresponding chapter in the book.
